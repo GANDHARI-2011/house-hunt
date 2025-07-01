@@ -1,1 +1,1 @@
-https://github.com/awdhesh-student/house-rent/tree/master/backend
+https://github.com/gandhari-student/house-rent/tree/master/backend
